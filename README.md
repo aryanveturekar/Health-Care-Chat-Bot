@@ -1,5 +1,5 @@
 # :two_hearts: Health Care Chat-Bot 🤖
-Project for the 6th Semester Sub -> Machine Learning
+Project for the 6th Semester Subject -> Machine Learning
 
 Health Care Chat-Bot is a Healthcare Domain Chatbot to simulate the predictions of a General Physician.
 
@@ -10,7 +10,7 @@ Typically, a chat bot will communicate with a real person.
 Chat bots are used in applications such as 
 
 1. E-commerce customer service,
-2. Call centres 
+2. Call centres, 
 3. Internet gaming. 
 
 Chatbots are programs built to automatically engage with received messages. Chatbots can be programmed to respond the same way each time, to respond differently to messages containing certain keywords and even to use machine learning to adapt their responses to fit the situation. 
