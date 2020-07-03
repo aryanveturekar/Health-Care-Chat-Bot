@@ -18,8 +18,8 @@ A developing number of hospitals, nursing homes, and even private centres, prese
 In any case, the utilization of artificial intelligence in an industry where individuals’ lives could be in question, still starts misgivings in individuals. It brings up issues about whether the task mentioned above ought to be assigned to human staff. This healthcare chatbot system will help hospitals to provide healthcare support online 24 x 7, it answers deep as well as general questions. It also helps to generate leads and automatically delivers the information of leads to sales. By asking the questions in series it helps patients by guiding what exactly he/she is looking for. 
 
 ## :card_index: Features
-- Register Screen
-- Signin Screen
+- Register Screen.
+- Sign-in Screen.
 - Generates database for user login system.
 - Offers you a GUI Based Chatbot for patients for diagnosing. [A pragmatic Approach for Diagnosis]
 - Reccomends an appropriate doctor to you for the following symptom.
