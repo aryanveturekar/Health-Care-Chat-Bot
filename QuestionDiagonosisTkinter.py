@@ -1,5 +1,4 @@
 ######## A Healthcare Domain Chatbot to simulate the predictions of a General Physician ########
-######## A pragmatic Approach for Diagnosis ############
 
 # Importing the libraries
 from tkinter import *
@@ -75,7 +74,6 @@ classifier.fit(X_train, y_train)
 # Saving the information of columns
 cols     = training_dataset.columns
 cols     = cols[:-1]
-
 
 # Checking the Important features
 importances = classifier.feature_importances_
