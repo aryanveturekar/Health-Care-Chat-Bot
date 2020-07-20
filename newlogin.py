@@ -24,7 +24,7 @@ def register():
     username = StringVar()
     password = StringVar()
 
-    Label(register_screen, text="Please enter details below", bg="blue").pack()
+    Label(register_screen, text="Please enter the details below", bg="blue").pack()
     Label(register_screen, text="").pack()
     username_lable = Label(register_screen, text="Username * ")
     username_lable.pack()
