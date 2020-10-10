@@ -8,7 +8,7 @@ import webbrowser
 
 import numpy as np
 import pandas as pd
-
+   
 
 class HyperlinkManager:
       
