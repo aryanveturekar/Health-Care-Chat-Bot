@@ -11,7 +11,7 @@ import pandas as pd
 
 
 class HyperlinkManager:
-
+      
     def __init__(self, text):
 
         self.text = text
