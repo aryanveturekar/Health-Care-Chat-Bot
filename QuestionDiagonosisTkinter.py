@@ -13,11 +13,8 @@ import pandas as pd
 class HyperlinkManager:
       
     def __init__(self, text):
-
         self.text = text
-
         self.text.tag_config("hyper", foreground="blue", underline=1)
-
         self.text.tag_bind("hyper", "<Enter>", self._enter)
         self.text.tag_bind("hyper", "<Leave>", self._leave)
         self.text.tag_bind("hyper", "<Button-1>", self._click)
