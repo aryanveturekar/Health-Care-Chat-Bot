@@ -2,7 +2,7 @@
 # Importing the libraries
 from tkinter import *
 from tkinter import messagebox                           
-import os
+import os            
 import webbrowser
 
 import numpy as np
